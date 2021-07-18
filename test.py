@@ -11,6 +11,7 @@ def amy():
 def nathan():
     print("my name is nathan")
     print("second line")
+    print("hello world")
 
 
 if __name__ == "__main__":
