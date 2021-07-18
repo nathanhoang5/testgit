@@ -4,6 +4,7 @@ def say_hello():
 
 def amy():
     print("hi my name is amy")
+    print("second commit")
 
 
 # Nathan's function
