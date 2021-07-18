@@ -2,6 +2,7 @@ def say_hello():
     print("hello")
 
 
+# amy's function
 def amy():
     print("hi my name is amy")
     print("second commit")
