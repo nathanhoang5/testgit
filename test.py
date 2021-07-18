@@ -5,6 +5,7 @@ def say_hello():
 # Nathan's function
 def nathan():
     print("my name is nathan")
+    print("second line")
 
 
 if __name__ == "__main__":
