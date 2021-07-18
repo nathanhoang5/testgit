@@ -2,6 +2,7 @@ def say_hello():
     print("hello")
 
 
+# Nathan's function
 def nathan():
     print("my name is nathan")
 
